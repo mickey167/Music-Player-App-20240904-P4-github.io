@@ -18,7 +18,7 @@ Progressions
 ### Reviewing Minim Documentation
 - Prototyping on KeyPressed
 
-DIVs
+DIVs: paper folding on different sized papers with ratios, draw after me in pointillism
 Quit (Shape and Text), "Are you Sure" Menu Reminder, Sound Effect and exit()
 Play Button for Sound Effect, trimmed for effect
 Mute Button for speakers
