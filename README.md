@@ -10,7 +10,7 @@ Progressions
    - Review video: https://www.youtube.com/watch?v=JMjozqJS44M
 - [ ] Case Study: what do music buttons look like? Different Styles? Different Functions?
    - Hoverover changes outline and shape colour
-   - Booleans change Day, Dark, and Night Modes
+   - Booleans change Day, Dark, and Night Modes ( advanced: preferences CANVAS, otherwise CONSOLE accessed)
 - [ ] Case Study: algorithms of music button features
 - [ ] Prototype: individual buttons on CANVAS and through CONSOLE, one sound effect and one song
 
