@@ -4,13 +4,13 @@
 Progressions
 - [x] Practice creating and deleting repositories
 - [ ] Case Study: what does a music player interface look like with most of the buttons present
-  - Demo: What would my buttons look like
-  - Demo: where does my information go
-  - List of Buttons & Information (See DIVs)
-  - Review video: https://www.youtube.com/watch?v=JMjozqJS44M
+   - Demo: What would my buttons look like
+   - Demo: where does my information go
+   - List of Buttons & Information (See DIVs)
+   - Review video: https://www.youtube.com/watch?v=JMjozqJS44M
 - [ ] Case Study: what do music buttons look like? Different Styles? Different Functions?
-  - Hoverover changes outline and shape colour
-  - Booleans change Day, Dark, and Night Modes
+   - Hoverover changes outline and shape colour
+   - Booleans change Day, Dark, and Night Modes
 - [ ] Case Study: algorithms of music button features
 - [ ] Prototype: individual buttons on CANVAS and through CONSOLE, one sound effect and one song
 
