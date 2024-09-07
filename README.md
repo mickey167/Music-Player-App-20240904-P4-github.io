@@ -106,6 +106,7 @@ out is students who download "square" music buttons to be used with tint() (see 
 - ID those capable, ID those coachable, ID those who struggle and work with deeper issues (can someone every deal with this level of understanding a student)
 - How does the use of remedial cases work guiding students to OOP, encouragement always, as a student I was discouraged ( how I give back ), I now understand
 this as a person anxious or avoidant and how they pass on themselves to other generations
+- COVID drastically interrupted all remedial work for complicated and complex reasons
 - Becomes different class lists in a clipboard, marks transferred to Gradebook when needed
 - Math Formulae about Geometry: in math geometry is about shapes and relationships about dimensions
 (i.e. collisions and radii searching), geometry is also a computer term about a display (i.e. width and height), these do not match, reminds me the
