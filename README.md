@@ -104,6 +104,9 @@ it needs to be practiced, do it 10 times, then start assessing who knows
 - Final Case Studies "Booklet": IDs students able to think in multiple variables mathematically or artistically and demonstrate, 
 out is students who download "square" music buttons to be used with tint() (see Drawing Program, MEd student and Artist)
 - ID those capable, ID those coachable, ID those who struggle and work with deeper issues (can someone every deal with this level of understanding a student)
+- How does the use of remedial cases work guiding students to OOP, encouragement always, as a student I was discouraged ( how I give back ), I now understand
+this as a person anxious or avoidant and how they pass on themselves to other generations
+- Becomes different class lists in a clipboard, marks transferred to Gradebook when needed
 - Math Formulae about Geometry: in math geometry is about shapes and relationships about dimensions
 (i.e. collisions and radii searching), geometry is also a computer term about a display (i.e. width and height), these do not match, reminds me the
 divide between the Bools, Mary and Her Husband as interpreted by the people after them
