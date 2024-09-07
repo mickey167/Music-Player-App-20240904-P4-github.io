@@ -2,7 +2,7 @@
 2024-2025 Development
 
 Progressions
-- [x] Practice creating and deleting repositories
+- [x] Practice creating and deleting repositories ( REMEMVER: github.io for hosting )
 - [ ] Case Study: what does a music player interface look like with most of the buttons present
     - Demo: What would my buttons look like
     - Demo: where does my information go
@@ -12,20 +12,29 @@ Progressions
     - List of Data: music MP4's, associated images, purpose is now where these images go
     - Final Case Studies "Booklet", purpose is sequence of images for website promotion answering who I am as a developer
         - "Where do I put the buttons", name separate images, upload to GitHub for reference and Website Hosting
-        - Splash Screen & Welcome with Name, Enter, Preferences (in CS20 to be saved as Write-Read File)
-        - AutoPlay Screen, one playList starts playing with minimalist interface (user defines minimalist and purpose of whitespace)
+        - Splash Screen & Welcome with Name, Enter, Preferences (in CS20 to be saved as Write-Read File, DIVs as preference buttons to change formats), Uses APIs in 20
+        - AutoPlay Screen, one playList starts playing with minimalist interface (user defines minimalist and purpose of whitespace), 2 click to anything rule
         - Play List Screen, Buttons to interact with playlist like Loop-Play-List (this button can be included on previous), drag and drop, refresh
         - Single Song Screen, Buttons for single song, metadata information
-    - Remedial Case Study: one screen, my teaching screen, using images (easier not as valuable in learning)
+    - Remedial Case Study:
+        - AutoPlay Screen: Always on, MUTE & QUIT ( how to read a display, actually reading anything, then ID where important stuff is in "T", like a seating plan in a classroom)
+            - NOTE: lower half of "One Screen" as a teaching tool, activate lines to see symmetry (1/2, 1/4, etc if necessary)
+            - 10 Seconds: Stop - Previous - Loop ONCE - Next
+            - Middle of Song: Stop - Reverse (Previous is double click) - Pause - Forward - Loop ONCE - Next
+            - Last 20%: Stop - Previous - Reverse - Replay - Loop ONCE - Next
+        - "Upper Half of "One Screen: my teaching screen, using images (easier not as valuable in learning)
+    - Final Case vs. Remedial: students must demonstrate design of use, are buttons always on, how is screen spaces active or not
+    - Remedial Splash Screen: single Boolean of entire screen, active the WINDOW in WINDOWS for Key Pressing (not mouse-pressing), OS Level hack
 
 ...
 
 
 - [ ] Case Study: what do music buttons look like? Different Styles? Different Functions?
+    - Introduce DIVs as lines to view symmetry (1/2, 1/4, etc if necessary)
     - Hover-over changes outline and shape colour
     - Booleans change Day, Dark, and Night Modes ( advanced: preferences CANVAS, otherwise CONSOLE accessed)
-    - Download one "square" playbutton image for tint() hover-over
     - Math formulae about geometry (screen and shapes)
+    - Remedial: Download one "square" play button image for tint() hover-over, who struggles with formulae and variable-cascading, leads to passing parameters
 - [ ] Case Study: algorithms of music button features
 - [ ] Prototype: individual buttons on CANVAS and through CONSOLE, one sound effect and one song
 
@@ -42,7 +51,7 @@ DIVs: paper folding on different sized papers with ratios, draw after me in poin
 - CAUTION: one song only
 - CAUTION: Single DIV only
 - [ ] Buttons
-   - Stop: creates the symetry of all buttons
+   - Stop: creates the symmetry of all buttons
    - Play | AutoPlay
    - Pause
    - Fast Forward | includes Pause ? | Note: set time skip as seconds or percentage of song
@@ -51,7 +60,7 @@ DIVs: paper folding on different sized papers with ratios, draw after me in poin
    - Previous
    - Loop, single song: once (1), infinite (sideways 8), set number of times (other number)
    - Loop PlayList
-   - Shuffle (Cross wtih triangle ends)
+   - Shuffle (Cross with triangle ends)
    - Mute (speakers only)
    - Quit Button | Shape and Text | Sound Effect | "Are you Sure" Menu Reminder
 - [ ] Music Load | Drag and Drop Feature
