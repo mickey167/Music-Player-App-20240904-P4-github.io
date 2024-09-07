@@ -99,6 +99,7 @@ Advanced
 ---
 
 # Stories
+- My example demos how I reduce bugs through routine and input habits, may need words to ID, some can simply repeat patterns (data sets in teaching math or abstract ideas)
 - Creating GitHub Repos: 100% activity, an exam or quiz is only going to assess who doesn't know,
 it needs to be practiced, do it 10 times, then start assessing who knows
 - Final Case Studies "Booklet": IDs students able to think in multiple variables mathematically or artistically and demonstrate, 
