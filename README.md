@@ -29,6 +29,7 @@ Progressions
         - "Upper Half of "One Screen: my teaching screen, using images (easier not as valuable in learning)
     - Final Case vs. Remedial: students must demonstrate design of use, are buttons always on, how is screen spaces active or not
     - Remedial Splash Screen: single Boolean of entire screen, active the WINDOW in WINDOWS for Key Pressing (not mouse-pressing), OS Level hack
+    - Due Dates: the day I teach it is the day it is due and must be done for HW (will be checked online or in person), must send email if missed
 
 ...
 
@@ -121,4 +122,10 @@ this as a person anxious or avoidant and how they pass on themselves to other ge
 (i.e. collisions and radii searching), geometry is also a computer term about a display (i.e. width and height), these do not match, reminds me the
 divide between the Bools, Mary and Her Husband as interpreted by the people after them
 - A display is an embodied metaphor, you can touch it. Concrete needs to be explored before abstract Objects in OOP
-- 
+
+---
+
+- DIVs, rect(), and parent interview (student apologized in grade 12)
+    - What is current state of missed HW, assessment, redo's, and make-up grades
+    - How can parents help vs. confronting teachers
+    - student is one who knows and has responsibility, send email, help son-daughter send email
