@@ -10,14 +10,18 @@ Progressions
     - List of Buttons & Information (See DIVs), leads to prototyping buttons as a void (variable inputs comes from DIVs), purpose is working with size()-CANVAS
     - Image of Text, Images, and buttons: 100% activity, leads to paper folding activity ("Draw my pointillism"), purpose is developing mini-CANVAS's
     - List of Data: music MP4's, associated images, purpose is now where these images go
+        - Review how to find information, know what is available
+        - NOTE: Computers can see NULL and give information to user as a Try-Catch (CS30)
     - Final Case Studies "Booklet", purpose is sequence of images for website promotion answering who I am as a developer
         - "Where do I put the buttons", name separate images, upload to GitHub for reference and Website Hosting
-        - Splash Screen & Welcome with Name, Enter, Preferences (in CS20 to be saved as Write-Read File, DIVs as preference buttons to change formats), Uses APIs in 20
+        - Splash Screen & Welcome with Name, Enter, Preferences (in CS20 to be saved as Write-Read File, DIVs as preference buttons to change formats),
+         Uses APIs in 20
         - AutoPlay Screen, one playList starts playing with minimalist interface (user defines minimalist and purpose of whitespace), 2 click to anything rule
         - Play List Screen, Buttons to interact with playlist like Loop-Play-List (this button can be included on previous), drag and drop, refresh
         - Single Song Screen, Buttons for single song, metadata information
     - Remedial Case Study:
-        - AutoPlay Screen: Always on, MUTE & QUIT ( how to read a display, actually reading anything, then ID where important stuff is in "T", like a seating plan in a classroom)
+        - AutoPlay Screen: Always on, MUTE & QUIT ( how to read a display, actually reading anything, then ID where important stuff is in "T",
+         like a seating plan in a classroom)
             - NOTE: lower half of "One Screen" as a teaching tool, activate lines to see symmetry (1/2, 1/4, etc if necessary)
             - 10 Seconds: Stop - Previous - Loop ONCE - Next
             - Middle of Song: Stop - Reverse (Previous is double click) - Pause - Forward - Loop ONCE - Next
@@ -98,8 +102,11 @@ Advanced
 
 ---
 
-# Stories
+# Stories - Also See HardDrive
 - My example demos how I reduce bugs through routine and input habits, may need words to ID, some can simply repeat patterns (data sets in teaching math or abstract ideas)
+- Setting up computer station every class, time decreases to less than a minute, balanced with garbage, searing plans
+    - Not North American way about computer stations, more youth way on legs, laying on floor, etc. not ergonomic 
+    - Story of Hardware Guy trying to learn to buy groceries, outperforming AP Students on CISCO Exam ... we need people like this
 - Everyone gets to demonstrating AP-Level coding project, exam and amount of information is separate issue
 - Creating GitHub Repos: 100% activity, an exam or quiz is only going to assess who doesn't know,
 it needs to be practiced, do it 10 times, then start assessing who knows
