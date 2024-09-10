@@ -2,7 +2,7 @@
 2024-2025 Development
 
 Progressions
-- [x] Practice creating and deleting repositories ( REMEMVER: github.io for hosting )
+- [x] Practice creating and deleting repositories ( REMEMBER: github.io for hosting )
 - [ ] Case Study: what does a music player interface look like with most of the buttons present
     - Demo: What would my buttons look like
     - Demo: where does my information go
